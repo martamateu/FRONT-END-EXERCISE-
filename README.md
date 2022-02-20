@@ -5,8 +5,8 @@
  
  ## Stack 🛠️
 
- HTML, CSS AND JAVASCRIPT (Vanilla JS). 
- Animations: Jquery library.
+ * HTML, CSS AND JAVASCRIPT (Vanilla JS). 
+ * Animations: Jquery library.
  
  
  ## Basic requirements 🔧
@@ -22,13 +22,13 @@
 
 ✅ Connect to one of the below TV/movie database API to fetch data --> CONEXION SUCCESS WITH API ▪ http://www.tvmaze.com/api ---> 
                                                             
-                                                            ✅ Search input field for movies
-                                                            ✅ With Catalog VIEW
-                                                            ✅ LIKE BUTTON
-                                                            ✅ REMOVE BUTTON
-                                                            ✅ FAVOURITES VIEW
-                                                            ✅ LOCAL STORAGE OF FAVOURITES SELECTED
-                                                            ✅ Creative way of using data ( IMAGES, LINK, DESCRIPTION AND TITLE DATA DISPLAYED)
+             ✅ Search input field for movies
+             ✅ With Catalog VIEW
+             ✅ LIKE BUTTON
+             ✅ REMOVE BUTTON
+             ✅ FAVOURITES VIEW
+             ✅ LOCAL STORAGE OF FAVOURITES SELECTED
+             ✅ Creative way of using data ( IMAGES, LINK, DESCRIPTION AND TITLE DATA DISPLAYED)
                                                             
 ✅ Animations added with jquery and with simple css
 
@@ -38,6 +38,7 @@
 ## Sections builded ⚙️
 
 The following sections was included on this site :
+
 **Header**
 * Logo
 * Navigation with Hamburger menu icon
