@@ -20,7 +20,9 @@
 
 ✅ Form with JavaScript validation for the required fields ( ALERT VALIDATION FORM CREATED AND HTML VALIDATION ALSO IMPLEMENTED)
 
-✅ Connect to one of the below TV/movie database API to fetch data --> CONEXION SUCCESS WITH API ▪ http://www.tvmaze.com/api ---> 
+✅ Connect to one of the below TV/movie database API to fetch data --> CONEXION SUCCESS WITH API 
+
+▪ http://www.tvmaze.com/api ---> 
                                                             
              ✅ Search input field for movies
              ✅ With Catalog VIEW
