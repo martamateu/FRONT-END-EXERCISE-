@@ -71,7 +71,7 @@ The following sections was included on this site :
 * Submit button
 
 **Embed Google Maps**
-* Embeded Amadeus IT headquarters location: https://goo.gl/maps/5sW9xsCNvByPnxXE9
+* Embeded Random Company headquarters location: https://goo.gl/maps/5sW9xsCNvByPnxXE9
 
 **Footer**
 
