@@ -15,7 +15,7 @@ form.addEventListener('submit', async e => {
             q: searchTerm
         }
     };
-    const res = await axios.get(`http://api.tvmaze.com/search/shows`, config);
+    const res = await axios.get(`https://api.tvmaze.com/search/shows`, config);
     displayImages(res.data);
     form.elements.query.value = '';
 
