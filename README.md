@@ -8,6 +8,9 @@
  * HTML, CSS AND JAVASCRIPT (Vanilla JS). 
  * Animations: Jquery library.
  
+ ## Demo
+ 
+ https://martamateu.github.io/FRONT-END-EXERCISE-/
  
  ## Basic requirements 🔧
  
